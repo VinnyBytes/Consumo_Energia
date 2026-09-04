@@ -1,18 +1,15 @@
-# Calculador de Consumo de Energia
+# ⚡Calculador de Consumo de Energia🔌
 
-Programa em Python que calcula o consumo de um aparelho e estima o valor correspondente na conta de energia.
+Programa em ![Python Version](https://shields.io) que calcula o consumo de um aparelho e estima o valor correspondente na conta de energia.
 
-## Funcionalidades
+## 🚀Funcionalidades
 
-- Recebe o nome do aparelho.
-- Recebe a potência do aparelho em watts.
-- Recebe a quantidade de horas de uso por dia.
-- Calcula o consumo em kWh.
-- Estima o valor da conta usando a tarifa de `R$ 0,93` por kWh.
-- Permite calcular vários aparelhos na mesma execução.
-- Rejeita entradas que não sejam numéricas para potência e horas de uso.
+- 🔌 Informa o consumo do aparelho
+- 💰 Calcula o valor estimado
+- 🔁 Permite cadastrar vários aparelhos
+- 🛡️ Trata entradas numéricas inválidas
 
-## Como usar
+## 🤷‍♂️ Como usar ? 🤷‍♂️
 
 1. Digite o nome do aparelho.
 2. Digite a potência em watts, por exemplo, `100`.
@@ -30,7 +27,7 @@ O consumo mensal estimado para Ventilador é de: 0.50KWh.
 O Valor estimado na conta para Ventilador é de: R$0.47.
 ```
 
-## Fórmulas utilizadas atualmente
+## 📝 Fórmulas utilizadas atualmente
 
 O programa calcula o consumo com:
 
