@@ -1,6 +1,6 @@
 # ⚡Calculador de Consumo de Energia🔌
 
-Programa em ![Python Version](https://shields.io) que calcula o consumo de um aparelho e estima o valor correspondente na conta de energia.
+Programa em [Python Version](https://shields.io) que calcula o consumo de um aparelho e estima o valor correspondente na conta de energia.
 
 ## 🚀Funcionalidades
 
